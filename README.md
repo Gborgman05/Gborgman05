@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Galen Borgman</h1>
+<h1 align="center">Hi 👋, It's ya boy, Galen</h1>
 <h3 align="center">A Computer Science Student at Cal Poly</h3>
 
 - 🔭 I’m currently working on **Matrix Solver**
 
 - 🌱 I’m currently learning **Node.js, Data Science**
 
-- 📝 I regulary write articles on [galenborgman.com](galenborgman.com)
+- 📝 I regulary write articles on [galenborgman.com](galenborgman.com) and [gborgman.me](https://gborgman.me)
 
-- 💬 Ask me about **Cal Poly || Algorithms**
+- 💬 Ask me about **Cal Poly || Algorithms || D&D || your favorite book**
 
-- 📫 How to reach me **PM me**
+- 📫 How to reach me **take my username, remove any numbers @ my college**
 
 
 <h3 align="left">Languages and Tools:</h3>
