@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Algorithms!**
 
-- 📝 I regulary write articles on [my personal website](gborgman05.github.io)
+- 📝 I regulary write articles on [my personal website](https://gborgman05.github.io/)
 
 - 💬 Ask me about **Cal Poly || Algorithms || D&D || your favorite book**
 
