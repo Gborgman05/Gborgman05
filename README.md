@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, It's ya boy, Galen</h1>
 <h3 align="center">A Computer Science Student at Cal Poly</h3>
 
-- 🔭 I’m currently working on **Interview Preparation**
+- 🔭 I’m currently working on **algs**
 
-- 🌱 I’m currently learning **Algorithms!**
-
-- 📝 I regulary write articles on [my personal website](https://gborgman05.github.io/)
+- 🌱 I’m currently learning **Angular!**
 
 - 💬 Ask me about **Cal Poly || Algorithms || D&D || your favorite book**
 
