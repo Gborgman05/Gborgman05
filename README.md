@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's ya boy, Galen</h1>
-<h3 align="center">A Computer Science Student at Cal Poly</h3>
+<h3 align="center">Software Engineery</h3>
 
 - 🔭 I’m currently working on **algs**
 
