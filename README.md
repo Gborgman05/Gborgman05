@@ -6,7 +6,7 @@
   I love algorithms, RPGs, and making sense of complex systems.
 </p>
 
-- 🔧 Currently working in full-stack development and exploring AI/ML on the side  [Current Project](www.coursera.org/learn/machine-learning/home/welcome)
+- 🔧 Currently working in full-stack development and exploring AI/ML on the side  [Current Project](https://www.coursera.org/learn/machine-learning/home/welcome)
 - 🎲 Always up to chat about **D&D, design patterns, or your latest book recommendation**  
 - 📫 [LinkedIn](https://www.linkedin.com/in/galen-borgman/)
 
