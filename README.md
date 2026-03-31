@@ -11,4 +11,4 @@
 🎲 Always up to chat about D&D, dogs, or your latest book recommendation
 
 
-📫 LinkedIn
+📫 [LinkedIn](https://www.linkedin.com/in/galen-borgman/)
