@@ -6,5 +6,9 @@
 </p>
 
 🔧 Software Engineer at DigitalOcean — currently diving deep into Go
+
+
 🎲 Always up to chat about D&D, dogs, or your latest book recommendation
+
+
 📫 LinkedIn
